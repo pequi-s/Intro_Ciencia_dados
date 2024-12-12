@@ -29,11 +29,11 @@ O arquivo de dados está no formato .CSV e deve conter as colunas mencionadas.
 Certifique-se de ter as seguintes bibliotecas Python instaladas:
 - `pandas`
 
-##Para instalar todas as dependências, execute:
+## Para instalar todas as dependências, execute: 
 ```bash
 pip install -r requirements.txt
 
-##Como Executar
+## Como executar
 Certifique-se de que o arquivo de dados está localizado na pasta dados/.
 Execute o script Python:
 bash
@@ -41,7 +41,7 @@ Copiar código
 python scripts/classificação_aves.ipynb
 Os resultados estarão disponíveis na pasta resultados/.
 
-##Resultados Esperados
+## Resultados Esperados
 Temos uma classificação em relação aos dados morfológicos das aves, separando em pequeno e grande, por meio do calculo dos quartis
 
 
@@ -77,11 +77,11 @@ Certifique-se de ter as seguintes bibliotecas Python instaladas:
 - `matplotlib`
 - `seaborn`
 
-##Para instalar todas as dependências, execute:
+## Para instalar todas as dependências, execute:
 ```bash
 pip install -r requirements.txt
 
-##Como Executar
+## Como Executar
 Certifique-se de que o arquivo de dados está localizado na pasta dados/.
 Execute o script Python:
 bash
