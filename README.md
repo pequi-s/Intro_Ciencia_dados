@@ -1,7 +1,7 @@
 # Intro_Ciencia_dados
 Repositório para a disciplina de Introdução de Ciência de dados ambientais, do PPGCAm ministrada pela Dra. Silvia Jesus
 
-Oii =) esse arquivo é uma passo a passo do que eu fiz pra disciplina de Ciência de Dados, nesse arquivo vai ter 2 partes: 1- Passo a passo sobre Classificação das aves; 2- Agrupamento dos traços das aves. É necessário utilizar o Glossário para o entendimento de termos técnicos. 
+Oii =) esse arquivo é uma passo a passo do que eu fiz pra disciplina de Ciência de Dados, nesse arquivo vai ter 2 partes: 1- Passo a passo sobre Classificação das aves; 2- Agrupamento dos traços das aves. 
 
 #### 1- Classificação espécies de aves e características ####
 
